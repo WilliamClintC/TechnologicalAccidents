@@ -19,7 +19,11 @@ also expect the effect to weaken across time. Lastly, we can identify and classi
 type and scale, that would have a long lasting effect on a country’s economy.
 
 https://ourworldindata.org/natural-disasters#not-all-deaths-are-equal-how-many-deaths-make-a-natural-disaster-newsworthy
+
 https://www.emdat.be/classification
+
 https://www.wikiwand.com/en/List_of_accidents_and_disasters_by_death_toll
+
 https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=26fc412f84e1f4f81085edf34ce19b5aa2a4bec3
+
 https://public.emdat.be/
